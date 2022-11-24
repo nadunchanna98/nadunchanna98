@@ -15,3 +15,4 @@
 
 # 👋 Hello, I'm [Mr.Nadun](https://www.linkedin.com/in/nadun-channa-3a4a181aa)! 🍓🍫
 
+![Snake SVG](https://github.com/nadunchanna/nadunchanna/blob/output/github-contribution-grid-snake.svg)
