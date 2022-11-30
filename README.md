@@ -15,7 +15,6 @@
 
 #  Hello, I'm [Nadun](https://www.linkedin.com/in/nadun-channa-3a4a181aa) ! ☣
 
-![Snake SVG](https://github.com/nadunchanna/nadunchanna/blob/output/github-contribution-grid-snake.svg)
 
 <img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
@@ -41,8 +40,7 @@
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
-| <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Nadun's github stats" /></a> 
-  
+| <a href="https://github.com/nadunchanna98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nadun's github stats" /></a> | <a href="https://github.com/nadunchanna98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 #### Web & Mobile Development
 
