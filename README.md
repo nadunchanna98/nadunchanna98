@@ -13,13 +13,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nadun+Channa;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
-# 👋🎭😈☠ Hello, I'm [Nadun](https://www.linkedin.com/in/nadun-channa-3a4a181aa) ! ☠👾☣🥷
+#  Hello, I'm [Nadun](https://www.linkedin.com/in/nadun-channa-3a4a181aa) ! ☣
 
 ![Snake SVG](https://github.com/nadunchanna/nadunchanna/blob/output/github-contribution-grid-snake.svg)
 
 <img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <!-- #### Blockchain Development
 
@@ -40,6 +40,8 @@
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
+
+| <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 #### Web & Mobile Development
 
