@@ -60,8 +60,8 @@
 [![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
 [![dev.to](https://img.shields.io/badge/-dev.to-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://dev.to/antonkarlovskiy)](https://dev.to/antonkarlovskiy)
 [![Medium](https://img.shields.io/badge/-Medium-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://medium.com/@antonkarlovskiy)](https://medium.com/@antonkarlovskiy)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/1111111/anton-karlovskiy)
-[![YouTube](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.youtube.com/channel/UC1QJ2h5ZJYQYQZ5YQXZ6Zjw)](https://www.youtube.com/channel/UC1QJ2h5ZJYQYQZ5YQXZ6Zjw)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
+[![YouTube](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.youtube.com/channel/UC1QJ2h5ZJYQYQZ5YQXZ6Zjw)](https://www.facebook.com/Nadunchanna)
 [![Facebook](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.facebook.com/anton.karlovskiy)](https://www.facebook.com/anton.karlovskiy)
 [![Instagram](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.instagram.com/anton.karlovskiy)](https://www.instagram.com/anton.karlovskiy)
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://t.me/antonkarlovskiy)](https://t.me/antonkarlovskiy)
@@ -69,15 +69,3 @@
 [![Reddit](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/antonkarlovskiy)
 
 
-.vertical-timeline.vertical-timeline-custom-line::before {
-  background: #424242;
-}
-
-/* Icon container's border */
-.vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--work .vertical-timeline-element-icon {
-  box-shadow: 0 0 0 4px #1976d2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-}
-
-.vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--education .vertical-timeline-element-icon {
-  box-shadow: 0 0 0 4px #c2185b, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-}
