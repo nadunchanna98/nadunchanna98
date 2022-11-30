@@ -18,8 +18,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nadun+Channa;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
-
-<img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+<!-- gif -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<!-- <img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" /> -->
 
 <!-- ### Languages and Tools:
 
