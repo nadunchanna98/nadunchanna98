@@ -47,7 +47,7 @@
 </div>
 
 
-
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
 
 
 
