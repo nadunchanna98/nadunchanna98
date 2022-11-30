@@ -41,7 +41,8 @@
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
-| <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/nadunchanna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Nadun's github stats" /></a> 
+  
 
 #### Web & Mobile Development
 
