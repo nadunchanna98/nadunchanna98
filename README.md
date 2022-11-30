@@ -19,7 +19,6 @@
 
 
 <!-- gif -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <!-- <img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" /> -->
 
 <!-- ### Languages and Tools:
@@ -45,7 +44,7 @@
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
 
-[![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)](https://github.com/nadunchanna98)
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)(https://github.com/nadunchanna98)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=transparent&hide_border=true)](https://github.com/nadunchanna98)
 
