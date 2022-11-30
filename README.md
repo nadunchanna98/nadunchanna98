@@ -42,13 +42,11 @@
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
 
-<div align='row'>
-| <a href="https://github.com/nadunchanna98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nadun's github stats" /></a> | <a href="https://github.com/nadunchanna98/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&theme=transparent&layout=compact&theme=buefy&hide_border=true" /></a> |
-</div>
 
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
 
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
 
 
 #### Web & Mobile Development
