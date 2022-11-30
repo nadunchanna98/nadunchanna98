@@ -46,7 +46,7 @@
 
 ![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
 
-![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
+![NaDUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&show_icons=true&theme=transparent)
 
 
 #### Web & Mobile Development
