@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
 
-[![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)](https://github.com/nadunchanna98)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)](https://github.com/nadunchanna98)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=transparent&hide_border=true)](https://github.com/nadunchanna98)
  
