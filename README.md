@@ -67,3 +67,17 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://t.me/antonkarlovskiy)](https://t.me/antonkarlovskiy)
 [![Discord](https://img.shields.io/badge/-Discord-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://discord.gg/)](https://discord.gg/)
 [![Reddit](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/antonkarlovskiy)
+
+
+.vertical-timeline.vertical-timeline-custom-line::before {
+  background: #424242;
+}
+
+/* Icon container's border */
+.vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--work .vertical-timeline-element-icon {
+  box-shadow: 0 0 0 4px #1976d2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--education .vertical-timeline-element-icon {
+  box-shadow: 0 0 0 4px #c2185b, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+}
