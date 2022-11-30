@@ -11,10 +11,13 @@
 <div align='center'>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nadun+Channa;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
-
 
 #  Hello, I'm [Nadun](https://www.linkedin.com/in/nadun-channa-3a4a181aa) ! ☣
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nadun+Channa;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+
 
 
 <img align= center  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
@@ -46,7 +49,7 @@
 
 ![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&show_icons=true)
 
-![NaDUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=transparent&hide_border=true)](https://github.com/nadunchanna98)
 
 
 #### Web & Mobile Development
