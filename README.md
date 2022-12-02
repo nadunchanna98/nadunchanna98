@@ -54,7 +54,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=nadunchanna98&color=dc143c)
-
+![](https://komarev.com/ghpvc/?username=nadunchanna98&style=for-the-badge&color=blue)
 
 
 <!-- ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a) -->
