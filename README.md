@@ -53,7 +53,6 @@
 <div>
 
 
-![](https://komarev.com/ghpvc/?username=nadunchanna98&color=dc143c)
 ![](https://komarev.com/ghpvc/?username=nadunchanna98&style=for-the-badge&color=blue)
 
 
