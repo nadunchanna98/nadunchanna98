@@ -77,6 +77,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.instagram.com/anton.karlovskiy)](https://www.instagram.com/nadun_channa/)
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://t.me/antonkarlovskiy)](https://t.me/nadunchanna)
 [![Discord](https://img.shields.io/badge/-Discord-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://discord.gg/)](discordapp.com/users/Romi#6582)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/nadunchanna)
+[![Reddit](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/nadunchanna)
 
 
