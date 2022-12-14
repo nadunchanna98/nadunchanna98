@@ -68,14 +68,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/nadun-channa-3a4a181aa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/NadunChanna)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
 [![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
 [![dev.to](https://img.shields.io/badge/-dev.to-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://dev.to/antonkarlovskiy)](https://dev.to/nadun)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
+
 [![YouTube](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.youtube.com/channel/UC1QJ2h5ZJYQYQZ5YQXZ6Zjw)](https://www.facebook.com/Nadunchanna)
 [![Facebook](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.facebook.com/anton.karlovskiy)](https://www.facebook.com/Nadunchanna)
 [![Instagram](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.instagram.com/anton.karlovskiy)](https://www.instagram.com/nadun_channa/)
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://t.me/antonkarlovskiy)](https://t.me/nadunchanna)
 [![Discord](https://img.shields.io/badge/-Discord-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://discord.gg/)](discordapp.com/users/Romi#6582)
-[![Reddit](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/nadunchanna)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.reddit.com/user/antonkarlovskiy)](https://www.reddit.com/user/nadunchanna)
 
 
