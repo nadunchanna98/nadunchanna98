@@ -44,10 +44,10 @@
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) -->
 
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)] -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=transparent&hide_border=true)]
- 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nadunchanna98&theme=transparent&layout=compact&show_icons=true&hide_border=true)](https://github.com/nadunchanna98)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunchanna98&layout=compact&theme=transparent&hide_border=true)](https://github.com/nadunchanna98)
+  -->
 
 
 <div>
@@ -68,11 +68,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/nadun-channa-3a4a181aa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/NadunChanna)
-<!-- [![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/) -->
-<!-- [![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors) -->
 [![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
 [![dev.to](https://img.shields.io/badge/-dev.to-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://dev.to/antonkarlovskiy)](https://dev.to/nadun)
-<!-- [![Medium](https://img.shields.io/badge/-Medium-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://medium.com/@antonkarlovskiy)](https://medium.com/@antonkarlovskiy) -->
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
 [![YouTube](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.youtube.com/channel/UC1QJ2h5ZJYQYQZ5YQXZ6Zjw)](https://www.facebook.com/Nadunchanna)
 [![Facebook](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.facebook.com/anton.karlovskiy)](https://www.facebook.com/Nadunchanna)
