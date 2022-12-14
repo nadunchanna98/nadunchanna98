@@ -69,6 +69,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/nadun-channa-3a4a181aa)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/NadunChanna)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
+[![Vercel](https://img.shields.io/badge/-Vercel-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://vercel.com/)](https://vercel.com/nadunchanna)
 [![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
 [![dev.to](https://img.shields.io/badge/-dev.to-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://dev.to/antonkarlovskiy)](https://dev.to/nadun)
 
