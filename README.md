@@ -67,7 +67,7 @@
 ### Find me elsewhere 🌎
 
 <!--[![Vercel](https://img.shields.io/badge/-Vercel-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://vercel.com/)](https://vercel.com/nadunchanna)-->
-<!--[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)]-->(https://www.patterns.dev/about/) -->
+<!--[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)]--><!--<!-<!-- (https://www.patterns.dev/about/) -->
 <!--[![dev.to](https://img.shields.io/badge/-dev.to-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://dev.to/antonkarlovskiy)](https://dev.to/nadun) -->
 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://stackoverflow.com/users/1111111/anton-karlovskiy)](https://stackoverflow.com/users/19736798/nadun-channa)
