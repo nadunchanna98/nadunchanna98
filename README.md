@@ -12,7 +12,7 @@
 
 
 
-#  Hello, I'm [Nadun](https://www.linkedin.com/in/nadun-channa/) ! ☣
+#  I'm [Nadun Channa](https://www.linkedin.com/in/nadun-channa/)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;)](https://github.com/nadunchanna98)
@@ -63,6 +63,7 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a) -->
 <!-- ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a) -->
 
+### Passion for Teamwork, Collaboration, and Continuous Learning in Pursuit of Creative Solutions.
 
 ### Find me elsewhere 🌎
 
