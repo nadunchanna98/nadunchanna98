@@ -63,7 +63,7 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a) -->
 <!-- ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a) -->
 
-### Passion for Teamwork, Collaboration, and Continuous Learning in Pursuit of Creative Solutions.
+### Passionate about self-learning, teamwork, and continuous improvement to achieve creative solutions.
 
 ### Find me elsewhere 🌎
 
